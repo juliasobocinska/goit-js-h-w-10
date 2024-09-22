@@ -16,3 +16,22 @@
 @import url('./badges.css');
 @import url('./back-link.css');
 @import url('./footer.css');
+
+.timer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 20px;
+}
+
+span.value {
+  display: block;
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.label {
+  font-size: 2rem;
+  font-weight: 400;
+}
