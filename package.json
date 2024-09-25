@@ -4,7 +4,6 @@
   "version": "1.0.0",
   "type": "module",
   "homepage": "https://juliasobocinska.github.io/goit-js-h-w-10",
-
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/goit-js-h-w-10/",
@@ -27,5 +26,4 @@
     "vite-plugin-full-reload": "^1.2.0",
     "vite-plugin-html-inject": "^1.1.2"
   }
-  
 }

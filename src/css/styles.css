@@ -36,3 +36,12 @@ span.value {
   font-size: 30px;
   font-weight: 400;
 }
+
+fieldset {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  margin: 0 auto;
+}
