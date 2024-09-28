@@ -1,7 +1,7 @@
 // Opisany w dokumentacji
-import iziToast from "izitoast";
+import iziToast from 'izitoast';
 // Kolejny import stylów
-import "izitoast/dist/css/iziToast.min.css";
+import 'izitoast/dist/css/iziToast.min.css';
 
 document.addEventListener('DOMContentLoaded', () => {
 document.querySelector(".form").addEventListener("submit", function(event) {
